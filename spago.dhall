@@ -5,7 +5,7 @@ You can edit this file as you like.
 { name =
     "halogen-animation"
 , dependencies =
-    [ "effect", "console" ]
+    [ "halogen", "halogen-css" ]
 , packages =
     ./packages.dhall
 }
