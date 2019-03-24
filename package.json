@@ -9,7 +9,8 @@
   "private": false,
   "scripts": {
     "build": "spago build",
-    "watch": "pscid"
+    "watch": "pscid",
+    "docs": "spago docs"
   },
   "dependencies": {
     "purescript": "^0.12.3",
